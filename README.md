@@ -38,5 +38,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=solomonjs0412&show_icons=true&locale=en&layout=compact" alt="solomonjs0412" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=solomonjs0412&show_icons=true&theme=dracula&bg_color=000000&locale=en" alt="solomonjs0412" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=solomonjs0412&theme=dark" alt="solomonjs0412" /></p>
