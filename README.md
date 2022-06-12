@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solomonjs0412" alt="solomonjs0412" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/fix_bugs_or_die" target="blank"><img src="https://img.shields.io/twitter/follow/fix_bugs_or_die?logo=twitter&style=for-the-badge" alt="fix_bugs_or_die" /></a> </p>
+
 - 🔭 I’m currently working on **comicWeb**
 
 - 🌱 I’m currently learning **PHP, Javascript, Golang,...**
@@ -38,3 +40,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=solomonjs0412&show_icons=true&locale=en&layout=compact" alt="solomonjs0412" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=solomonjs0412&show_icons=true&theme=dracula&bg_color=000000&locale=en" alt="solomonjs0412" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=solomonjs0412&theme=dark" alt="solomonjs0412" /></p>
