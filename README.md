@@ -76,8 +76,10 @@
       <a href="https://github.com/SolomonJs0412?tab=repositories">SolomonJs</a>
     </h3>
   </div>
-  [![Final video of fixing issues in your code in VS Code](https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=JLMbpiywVxQ)
 </div>
+[![Final video of fixing issues in your code in VS Code]
+(https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)]
+(https://www.youtube.com/watch?v=JLMbpiywVxQ)
 <br />
 <br />
 <img
