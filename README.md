@@ -97,12 +97,17 @@ Music for work (**My favorite**):
 </a>
 <div>
   <img
-    src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif"
+    src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif"
     width="30"
     height="30"
   />
   <img
-    src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif"
+    src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif"
+    width="30"
+    height="30"
+  />
+  <img
+    src="https://cultofthepartyparrot.com/parrots/hd/gentlemanparrot.gif"
     width="30"
     height="30"
   />
@@ -118,6 +123,11 @@ Music for work (**My favorite**):
   />
   <img
     src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif"
+    width="30"
+    height="30"
+  />
+  <img
+    src="https://cultofthepartyparrot.com/guests/partyowl.gif"
     width="30"
     height="30"
   />
@@ -143,6 +153,11 @@ Music for work (**My favorite**):
   />
   <img
     src="https://cultofthepartyparrot.com/parrots/fixparrot.gif"
+    width="36"
+    height="30"
+  />
+  <img
+    src="https://cultofthepartyparrot.com/guests/hd/partyblobcat.gif"
     width="36"
     height="30"
   />
@@ -173,6 +188,11 @@ Music for work (**My favorite**):
   />
   <img
     src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif"
+    width="30"
+    height="30"
+  />
+  <img
+    src="https://cultofthepartyparrot.com/parrots/hd/phparrot.gif"
     width="30"
     height="30"
   />
