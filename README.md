@@ -29,19 +29,19 @@
 </h3>
 
 <p align="center">
-  <a href="mailto:sownteenguyen@gmail.com"
+  <a href="mailto:vothuykg123@gmail.com"
     ><img
       src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"
   /></a>
-  <a href="https://www.linkedin.com/in/sownteenguyen"
+  <a href="https://www.linkedin.com/in/solomonjs2009/"
     ><img
       src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
   /></a>
-  <a href="https://www.reddit.com/user/SownteeNguyen"
+  <a href="https://www.reddit.com/user/SolomonJs1112"
     ><img
       src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"
   /></a>
-  <a href="https://discordapp.com/users/745732774027198554"
+  <a href="https://discordapp.com/users/602711169907818525"
     ><img
       src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
   /></a>
@@ -56,12 +56,6 @@
 <h2 class="white">
   👨🏻‍💻About Me
 </h2>
-    - Software Developer from Vietnam
-    - 🌱 Fresher Back-end Developer
-    - 👨‍💻 I’m currently **Nodejs Developer**
-    - 🔭 I'll become a **FullStacks Developer**
-      Check out my project at:
-      <a href="https://github.com/SolomonJs0412?tab=repositories">SolomonJs</a>
 
 - I’m Software Developer from Vietnam
 
