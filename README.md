@@ -67,7 +67,7 @@
 
 - 👨‍💻 I’m currently **Nodejs Developer**
 
-- 🔭 I'll become a **FullStacks Developer**
+- 🔭 I'll become a **Indie Developer**
 
 - 📫 How to reach me **vothuykg123@gmail.com**
 
