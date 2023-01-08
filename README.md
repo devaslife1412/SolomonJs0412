@@ -76,10 +76,10 @@
       <a href="https://github.com/SolomonJs0412?tab=repositories">SolomonJs</a>
     </h3>
   </div>
-  {% include youtube.html id="5891KdSrQeo" %}
+  [![Final video of fixing issues in your code in VS Code](https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=JLMbpiywVxQ)
 </div>
-<br /
-<br />d
+<br />
+<br />
 <img
   src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
 />
