@@ -110,16 +110,13 @@ Music for work (**My favorite**):
 
   </p>
 
+### ⚫️ Software & Tools
 
 
-  
+  <p>
    <img
       alt="Visual Studio Code"
       src="https://img.shields.io/badge/VSCode-0078d7.svg?logo=visual-studio-code&logoColor=white"
-    />
-    <img
-      alt="Git"
-      src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"
     />
     <img
       alt="Terminal"
