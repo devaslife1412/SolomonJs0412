@@ -69,13 +69,15 @@
 
 - 🔭 I'll become a **FullStacks Developer**
 
+- 📫 How to reach me **vothuykg123@gmail.com**
+
 - 👯 Check out my **project** at:
       <a href="https://github.com/SolomonJs0412?tab=repositories">SolomonJs</a>
 
+
+
+<div align="right">
 Music for work (**My favorite**):
-
-<div align="center">
-
 
 [![Final video of fixing issues in your code in VS Code](https://i.ytimg.com/vi/5891KdSrQeo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0Fa8Hs6UzuQcm1ypVpKmWi80M3w)](https://www.youtube.com/watch?v=5891KdSrQeo&t=1639s)
 
