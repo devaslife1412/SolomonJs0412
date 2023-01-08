@@ -106,18 +106,6 @@ Music for work (**My favorite**):
   ### ⚫️ Frameworks
   <p align="left">
     <img
-      alt="HTML"
-      src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"
-    />
-    <img
-      alt="CSS"
-      src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"
-    />
-    <img
-      alt="Bootstrap"
-      src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"
-    />
-    <img
       alt="React JS"
       src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"
     />
