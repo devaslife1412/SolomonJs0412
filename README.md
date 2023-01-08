@@ -54,16 +54,7 @@
 />
 
 <h2 class="white">
-  <iframe
-    src="https://giphy.com/embed/3oz8xWbfl78d9o8q52"
-    width="40"
-    height="40"
-    frameborder="0"
-    class="giphy-embed"
-    allowfullscreen
-  ></iframe>
-  <a href="https://giphy.com/gifs/marvelstudios-3oz8xWbfl78d9o8q52"></a>
-  About Me
+  👨🏻‍💻About Me
 </h2>
 <div class="about_me" id="about">
   <div class="white">
