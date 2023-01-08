@@ -89,10 +89,9 @@ Music for work (**My favorite**):
 <a align="center" href="https://github.com/SownteeNguyen">
   <img
     height="155em"
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=SolomonJs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=solomonjs0412&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=en&layout=compact" alt="solomonjs0412" "
     align="left"
   />
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=solomonjs0412&show_icons=true&locale=en" alt="solomonjs0412" /></p>
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=solomonjs0412&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="solomonjs0412" />
 
 </a>
