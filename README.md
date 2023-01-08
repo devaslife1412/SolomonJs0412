@@ -63,21 +63,15 @@
       Check out my project at:
       <a href="https://github.com/SolomonJs0412?tab=repositories">SolomonJs</a>
 
-- 🔭 I’m Software Developer from Vietnam
+- I’m Software Developer from Vietnam
 
-- 🌱 I’m currently learning **Javascript, Linux**
+- 🌱 Fresher **Back-end Developer**
 
-- 👯 I’m looking to collaborate on **null**
+- 👨‍💻 I’m currently **Nodejs Developer**
 
-- 🤝 I’m looking for help with **null**
+- 🔭 I'll become a **FullStacks Developer**
 
-- 👨‍💻 All of my projects are available at [null](null)
-
-- 💬 Ask me about **Javascript**
-
-- 📫 How to reach me **vothuykg123@gmail.com**
-
-Chilling:
+Music for work (**My favorite**):
 
 [![Final video of fixing issues in your code in VS Code](https://i.ytimg.com/vi/5891KdSrQeo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0Fa8Hs6UzuQcm1ypVpKmWi80M3w)](https://www.youtube.com/watch?v=5891KdSrQeo&t=1639s)
 <br />
