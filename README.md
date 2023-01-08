@@ -56,13 +56,10 @@
 <h2 class="white">
   👨🏻‍💻About Me
 </h2>
-<div class="about_me" id="about">
-  <div class="white">
     - Software Developer from Vietnam
     - class="white">Fresher Back-end Developer
     - class="white">I’m currently **Nodejs Developer**
     - class="white">I'll become a **FullStacks Developer**
-    <h3 class="white">
       Check out my project at:
       <a href="https://github.com/SolomonJs0412?tab=repositories">SolomonJs</a>
     </h3>
