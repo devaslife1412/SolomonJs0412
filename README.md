@@ -370,4 +370,9 @@ Music for work (**My favorite**):
     width="30"
     height="30"
   />
+  <img
+    src="https://cultofthepartyparrot.com/guests/hd/partygeeko.gif"
+    width="30"
+    height="30"
+  />
 </div>
