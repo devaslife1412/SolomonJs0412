@@ -62,7 +62,19 @@
     - 🔭 I'll become a **FullStacks Developer**
       Check out my project at:
       <a href="https://github.com/SolomonJs0412?tab=repositories">SolomonJs</a>
-    </h3>
+- 🔭 I’m currently working on **null**
+
+- 🌱 I’m currently learning **Javascript, Linux**
+
+- 👯 I’m looking to collaborate on **null**
+
+- 🤝 I’m looking for help with **null**
+
+- 👨‍💻 All of my projects are available at [null](null)
+
+- 💬 Ask me about **Javascript**
+
+- 📫 How to reach me **vothuykg123@gmail.com**
 
 Chilling:
 
