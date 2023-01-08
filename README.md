@@ -62,7 +62,7 @@
     - 🔭 I'll become a **FullStacks Developer**
       Check out my project at:
       <a href="https://github.com/SolomonJs0412?tab=repositories">SolomonJs</a>
-- 🔭 Software Developer from Vietnam
+- 🔭 I’m currently working on **Software Developer**
 
 - 🌱 I’m currently learning **Javascript, Linux**
 
