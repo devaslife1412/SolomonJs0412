@@ -57,7 +57,7 @@
   👨🏻‍💻About Me
 </h2>
 
-<div class="about">
+<div class="about" display: inline-block;>
 
 - I’m Software Developer from Vietnam
 
