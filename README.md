@@ -110,10 +110,9 @@ Music for work (**My favorite**):
 
   </p>
 
-### ⚫️ Software & Tools
 
 
-  <!-- <p> -->
+  
    <img
       alt="Visual Studio Code"
       src="https://img.shields.io/badge/VSCode-0078d7.svg?logo=visual-studio-code&logoColor=white"
