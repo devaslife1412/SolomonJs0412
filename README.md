@@ -1,4 +1,4 @@
-<style>
+<!-- <style>
   * {
     background-color: black;
   }
@@ -11,7 +11,7 @@
     line-height: 40px;
     margin-left: -5px;
   }
-</style>
+</style> -->
 <p align="center">
   <img
     src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
@@ -67,10 +67,10 @@
 </h2>
 <div class="about_me" id="about">
   <div class="white">
-    <h3 class="white">Software Developer from Vietnam</h3>
-    <h3 class="white">Fresher Back-end Developer</h3>
-    <h3 class="white">I’m currently **Nodejs Developer**</h3>
-    <h3 class="white">I'll become a **FullStacks Developer**</h3>
+    - Software Developer from Vietnam
+    - class="white">Fresher Back-end Developer
+    - class="white">I’m currently **Nodejs Developer**
+    - class="white">I'll become a **FullStacks Developer**
     <h3 class="white">
       Check out my project at:
       <a href="https://github.com/SolomonJs0412?tab=repositories">SolomonJs</a>
@@ -78,7 +78,7 @@
   </div>
 </div>
 
-Chilling::
+Chilling:
 
 [![Final video of fixing issues in your code in VS Code](https://i.ytimg.com/vi/5891KdSrQeo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0Fa8Hs6UzuQcm1ypVpKmWi80M3w)](https://www.youtube.com/watch?v=5891KdSrQeo&t=1639s)
 <br />
