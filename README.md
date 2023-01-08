@@ -76,7 +76,7 @@
       <a href="https://github.com/SolomonJs0412?tab=repositories">SolomonJs</a>
     </h3>
   </div>
-  [![](https://markdown-videos.deta.dev/youtube/5891KdSrQeo)](https://youtu.be/5891KdSrQeo)
+  {% include youtube.html id="5891KdSrQeo" %}
 </div>
 <br /
 <br />d
