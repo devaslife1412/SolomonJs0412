@@ -83,6 +83,13 @@ Music for work (**My favorite**):
 
 </div>
 </div>
+### 👁️‍🗨️ Visitor count:  
+  <img
+    height="25px"
+    width="290px"
+    src="https://profile-counter.glitch.me/SolomonJs/count.svg"
+  />
+</div>
 <br />
 <img
   src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
