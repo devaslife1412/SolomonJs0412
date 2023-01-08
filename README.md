@@ -92,6 +92,9 @@ Music for work (**My favorite**):
     src="https://github-readme-stats-eight-theta.vercel.app/api?username=SolomonJs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
     align="left"
   />
-  <p><img height="155em"count=8&theme=algolia src="https://github-readme-stats.vercel.app/api/top-langs?username=solomonjs0412&show_icons=true&locale=en&layout=compact count=8&theme=algolia" alt="solomonjs0412" /></p>
+  <img
+    height="155em"count=8&theme=algolia
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SolomonJs&layout=compact&langs_count=8&theme=algolia"
+  />
 
 </a>
