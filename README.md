@@ -95,7 +95,67 @@ Music for work (**My favorite**):
   src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
 />
 
-<a align="center" href="https://github.com/SownteeNguyen">
+<div>
+  ### ⚫️ Programming Languages
+
+  <p align="left">
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+  </p>
+
+  ### ⚫️ Frameworks
+  <p align="left">
+    <img
+      alt="HTML"
+      src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"
+    />
+    <img
+      alt="CSS"
+      src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"
+    />
+    <img
+      alt="Bootstrap"
+      src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"
+    />
+    <img
+      alt="React JS"
+      src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"
+    />
+    <!--<img alt="Vue JS" src="https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue.js&logoColor=white">-->
+    <img
+      alt="NodeJS"
+      src="https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&logoColor=white"
+    />
+
+    ### ⚫️ Software & Tools
+  </p>
+
+  <p>
+   <img
+      alt="Visual Studio Code"
+      src="https://img.shields.io/badge/VSCode-0078d7.svg?logo=visual-studio-code&logoColor=white"
+    />
+    <img
+      alt="Git"
+      src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"
+    />
+    <img
+      alt="Terminal"
+      src="https://img.shields.io/badge/Terminal-000000?logo=windowsterminal&logoColor=4D4D4D&style=flat-square"
+    />
+    <img
+      alt="StackOverFlow"
+      src="https://img.shields.io/badge/-StackOverFlow-FE7A16?logo=stack-overflow&logoColor=white"
+    />
+  </p>
+</div>
+
+<br />
+<img
+  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+/>
+
+<a align="center" href="https://github.com/SolomonJs0412">
   <img
     height="155em"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=solomonjs0412&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=en&layout=compact" alt="solomonjs0412" "
