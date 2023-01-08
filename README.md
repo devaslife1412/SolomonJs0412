@@ -146,6 +146,11 @@ Music for work (**My favorite**):
 <br />
 <div>
   <img
+    src="https://cultofthepartyparrot.com/parrots/hd/nodeparrot.gif"
+    width="30"
+    height="30"
+  />
+  <img
     src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif"
     width="30"
     height="30"
@@ -211,6 +216,11 @@ Music for work (**My favorite**):
     height="30"
   />
   <img
+    src="https://cultofthepartyparrot.com/parrots/hd/pokeparrot.gif"
+    width="30"
+    height="30"
+  />
+  <img
     src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif"
     width="30"
     height="30"
@@ -262,6 +272,11 @@ Music for work (**My favorite**):
   />
   <img
     src="https://cultofthepartyparrot.com/parrots/hd/wineparrot.gif"
+    width="30"
+    height="30"
+  />
+  <img
+    src="https://cultofthepartyparrot.com/parrots/hd/wfhparrot.gif"
     width="30"
     height="30"
   />
