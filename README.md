@@ -137,7 +137,7 @@ Music for work (**My favorite**):
     src="https://github-readme-stats.vercel.app/api/top-langs?username=solomonjs0412&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=en&layout=compact" alt="solomonjs0412" "
     align="left"
   />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=solomonjs0412&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="solomonjs0412" />
+  <img align="center" height="155em" src="https://github-readme-stats.vercel.app/api?username=solomonjs0412&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="solomonjs0412" />
 
 </a>
 
