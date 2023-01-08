@@ -57,6 +57,8 @@
   👨🏻‍💻About Me
 </h2>
 
+<div class="about" align="right">
+
 - I’m Software Developer from Vietnam
 
 - 🌱 Fresher **Back-end Developer**
@@ -70,7 +72,6 @@
 
 Music for work (**My favorite**):
 
-<div align="right">
 
 [![Final video of fixing issues in your code in VS Code](https://i.ytimg.com/vi/5891KdSrQeo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0Fa8Hs6UzuQcm1ypVpKmWi80M3w)](https://www.youtube.com/watch?v=5891KdSrQeo&t=1639s)
 
