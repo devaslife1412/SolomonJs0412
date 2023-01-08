@@ -63,8 +63,6 @@
       Check out my project at:
       <a href="https://github.com/SolomonJs0412?tab=repositories">SolomonJs</a>
     </h3>
-  </div>
-</div>
 
 Chilling:
 
