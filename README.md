@@ -57,9 +57,9 @@
   👨🏻‍💻About Me
 </h2>
     - Software Developer from Vietnam
-    - class="white">Fresher Back-end Developer
-    - class="white">I’m currently **Nodejs Developer**
-    - class="white">I'll become a **FullStacks Developer**
+    - 🌱 Fresher Back-end Developer
+    - 👨‍💻 I’m currently **Nodejs Developer**
+    - 🔭 I'll become a **FullStacks Developer**
       Check out my project at:
       <a href="https://github.com/SolomonJs0412?tab=repositories">SolomonJs</a>
     </h3>
