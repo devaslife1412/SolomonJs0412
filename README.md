@@ -252,7 +252,12 @@ Music for work (**My favorite**):
     height="30"
   />
   <img
-    src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif"
+    src="https://cultofthepartyparrot.com/parrots/hd/astronautparrot.gif"
+    width="30"
+    height="30"
+  />
+  <img
+    src="https://cultofthepartyparrot.com/parrots/mongodbparrot.gif"
     width="30"
     height="30"
   />
