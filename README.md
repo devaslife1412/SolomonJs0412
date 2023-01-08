@@ -53,7 +53,6 @@
   src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
 />
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solomonjs0412" alt="solomonjs0412" /></a> </p>
 
 
 <h2 class="white">
@@ -86,3 +85,13 @@ Music for work (**My favorite**):
 <img
   src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
 />
+
+<a align="center" href="https://github.com/SownteeNguyen">
+  <img
+    height="155em"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=SolomonJs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
+    align="left"
+  />
+  <p><img height="155em"count=8&theme=algolia src="https://github-readme-stats.vercel.app/api/top-langs?username=solomonjs0412&show_icons=true&locale=en&layout=compact count=8&theme=algolia" alt="solomonjs0412" /></p>
+
+</a>
