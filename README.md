@@ -96,6 +96,7 @@ Music for work (**My favorite**):
 />
 
 <div>
+
   ### ⚫️ Programming Languages
 
   <p align="left">
@@ -114,9 +115,10 @@ Music for work (**My favorite**):
       alt="NodeJS"
       src="https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&logoColor=white"
     />
-
-    ### ⚫️ Software & Tools
   </p>
+
+### ⚫️ Software & Tools
+
 
   <p>
    <img
