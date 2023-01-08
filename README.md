@@ -72,17 +72,13 @@
 
 Music for work (**My favorite**):
 
-<div align="right">
+<div align="center">
 
 
 [![Final video of fixing issues in your code in VS Code](https://i.ytimg.com/vi/5891KdSrQeo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0Fa8Hs6UzuQcm1ypVpKmWi80M3w)](https://www.youtube.com/watch?v=5891KdSrQeo&t=1639s)
 
 </div>
-
 </div>
-
-
-<br />
 <br />
 <img
   src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
