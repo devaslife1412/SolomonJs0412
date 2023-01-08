@@ -83,7 +83,7 @@ Music for work (**My favorite**):
 
 </div>
 </div>
-### 👁️‍🗨️ Visitor count:  
+👁️‍🗨️ Visitor count:  
   <img
     height="25px"
     width="290px"
