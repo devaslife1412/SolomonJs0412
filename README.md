@@ -20,7 +20,7 @@
 </p>
 <h3 class="white" align="center">
   Hey there, I'm
-  <a href="#">Asher</a> -
+  <a href="#">Ashlyn</a> -
   <i>abyssarch</i>
   <img
     src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
