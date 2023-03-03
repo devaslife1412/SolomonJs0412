@@ -41,10 +41,10 @@
     ><img
       src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"
   /></a>
-  <!-- <a href="https://discordapp.com/users/602711169907818525"
+  <a href="https://discordapp.com/users/602711169907818525"
     ><img
       src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
-  /></a> -->
+  /></a>
   <br />
   <br />
 </p>
