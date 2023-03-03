@@ -29,7 +29,7 @@
 </h3>
 
 <p align="center">
-  <a href="mailto:vothuykg123@gmail.com"
+  <a href="mailto:trungkien1412.dev@gmail.com"
     ><img
       src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"
   /></a>
