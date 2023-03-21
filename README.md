@@ -69,7 +69,7 @@
 
 - 🔭 I'll become a **Indie Developer**
 
-- 📫 How to reach me **vothuykg123@gmail.com**
+- 📫 How to reach me **trungkien1412.dev@gmail.com**
 
 - 👯 Check out my **project** at:
       <a href="https://github.com/SolomonJs0412?tab=repositories">SolomonJs</a>
