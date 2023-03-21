@@ -37,7 +37,7 @@
     ><img
       src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
   /></a>
-  <a href="https://www.reddit.com/user/SolomonJs1112"
+  <a href="https://www.linkedin.com/in/trungkiendev/"
     ><img
       src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"
   /></a>
